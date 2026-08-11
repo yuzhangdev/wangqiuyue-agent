@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    "张羽",
+    "王秋月",
+    "DeepSeek大模型"
+  ],
+  "edges": [
+    {
+      "from": "张羽",
+      "to": "王秋月",
+      "relation": "开发者"
+    },
+    {
+      "from": "王秋月",
+      "to": "DeepSeek大模型",
+      "relation": "基于"
+    }
+  ]
+}
